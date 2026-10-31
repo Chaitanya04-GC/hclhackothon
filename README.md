@@ -1,8 +1,10 @@
 # hclhackothon
-# Project Title
+# BillWise AI
+## Next Bill Amount Prediction and Cost Intelligence System
 
-> A brief description of your project and the problem it solves.
-
+An AI-powered application that predicts the next customer bill,
+analyzes billing trends, explains potential bill increases,
+and identifies unusually high predicted bills.
 ## 1. Problem Statement
 
 Describe the problem you are trying to solve.
